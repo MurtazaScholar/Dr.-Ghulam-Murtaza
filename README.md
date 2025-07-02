@@ -31,10 +31,11 @@ As Corresponding Author:
 
 
 ## 🛠 Skills
-Aptamer synthesis, nanomaterials, THz-TDS, AutoDock Vina, MD Simulations
+Aptamer synthesis, nanomaterials, THz-TDS, AutoDock Vina, MD Simulations, Computer-aided drug designing and re-purposing, Systematic evolution of ligands by exponential enrichment (SELEX), Capillary electrophoresis, 
+Protein-DNA interactions, PyMol, Discovery studio, HDock, ZDock, PatchDock, RNAComposer 
 
 ## 📂 Projects
 - HIV and SARS-CoV-2 Aptamer Sensor
 - Creatinine Imprinted Hydrogel Sensor
 - Poxvirus Photonic Crystal Device (NSFC-RFIS-1)
-- 
+- Poxvirus-protein modulation by aptamers (Beijing Natural Science Foundation of China)
